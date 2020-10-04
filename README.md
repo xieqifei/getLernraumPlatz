@@ -1,5 +1,5 @@
 # 自习室预定程序getLernraumPlatz
-一个Web自动化程序，用于从RWTH Lernraum订座网站上获取一个自习位置。a web automatic program to get a place in RWTH-Lernraum
+一个Web自动化程序，用于从RWTH Lernraum订座网站上获取一个自习位置。设置定时任务，保证每个工作日都能获得自习位置。a web automatic program to get a place in RWTH-Lernraum
 
 # 1：使用协议：
 
@@ -42,3 +42,5 @@ python C:\Users\你的用户名\Desktop\main\getplatz.py
 如果你对Semitemp情有独钟，可以删除程序中的`inputs.reverse()`。这样会优先预定semi temp的位置。
 
 设置定时任务，可以为你每天抢座，但是你需要保证你的电脑在设置的任务时间处于开机状态。。如果你有树莓派，可能会为你省一笔电费。。如果你本身就是一个勤奋的同学，比如你设置的8点抢座，而你在7点就已经开始使用电脑学习，那么你可能并不需要让计算机在你晚上睡觉的时候保持激活。
+
+程序我有在Linux和Windows上都运行过，都是没有问题的。Mac系统，也是没有什么问题的，不过安装chrome驱动和设置环境变量，需要自行google教程。
