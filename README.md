@@ -18,7 +18,7 @@ pip3 install selenium
 ```
 
 3. 下载安装chrome浏览器驱动，并将驱动配置到环境变量中。[selenium 安装与 chromedriver安装](https://www.cnblogs.com/lfri/p/10542797.html)
-4. 将getplatz.py程序下载到你的计算机。https://github.com/xieqifei/getLernraumPlatz
+4. 将getplatz.py程序下载到你的计算机。https://github.com/xieqifei/getLernraumPlatz/archive/main.zip 解压后，getplatz.py程序就在文件夹内。
 5. 打开并按照程序内的备注，修改getplatz.py中的urinfo信息。
 6. 在cmd命令提示符窗孔中输入指令，运行程序，即可完成抢座。5分钟后，你会收到学校发送的预定成功邮件。
 
@@ -26,10 +26,10 @@ pip3 install selenium
 python 程序保存目录\getplatz.py
 ```
 
-比如将程序下载到了桌面，
+比如将程序保存到了桌面，
 
 ```shell
-python C:\Users\你的用户名\Desktop\getplatz.py
+python C:\Users\你的用户名\Desktop\main\getplatz.py
 ```
 程序运行时，会出现运行提示。如果预定成功，几分钟之后，会收到预定成功的邮件。当然，如果你在预定的网站上看到，今日预定已经没有了，自然会抢座失败。
 
