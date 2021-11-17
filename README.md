@@ -1,6 +1,5 @@
-# 自习室预定程序getLernraumPlatz (aufgegeben)
-## Aktuelles Programm steht Ihnen in folgendem Repository zur Verfügung!  
-## Aktuelles Repository [AutoLernraum](https://github.com/xieqifei/AutoLernraum)
+# 自习室预定程序getLernraumPlatz (已作废aufgegeben)
+## Aktuelles Repository最新的仓库 [AutoLernraum](https://github.com/xieqifei/AutoLernraum)
 
 一个Web自动化程序，用于从RWTH Lernraum订座网站上获取一个自习位置。设置定时任务，保证每个工作日都能获得自习位置。a web automatic program to get a place in RWTH-Lernraum
 
